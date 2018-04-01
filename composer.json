@@ -1,0 +1,6 @@
+{
+    "name": "user/editor",
+    "require": {
+        "meebio/php-eval-console": "^1.1"
+    }
+}
